@@ -1,8 +1,7 @@
 # This is Git's per-user configuration file.
 [user]
-# Please adapt and uncomment the following lines:
 	name = Kelly Cheng
-	email = kucheng@shutterfly.com
+	email = iluvpippi@gmail.com
 [core]
 	autocrlf = input
 [alias]
