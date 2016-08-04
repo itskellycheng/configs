@@ -1,9 +1,3 @@
-# command to open ssh connection with kcheng.tinyprints.com
-function sshkcheng () 
-{
-	ssh kcheng.tinyprints.com
-}
-
 # completion support for git
 source ~/.git-completion.bash
 
